@@ -1,10 +1,12 @@
 ## Questions
+
 ###What paradigms does Python support?
-	+ Object-oriented
-	+ Imperative
-	+ Functional
-	+ Procedural
-	+ Reflective
++ Object-oriented
++ Imperative
++ Functional
++ Procedural
++ Reflective
+
 ###What typing discipline does it follow?
 ###Is it a high or low level language?
 ###Does it have built in memory management and garbage collection?
