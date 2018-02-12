@@ -26,7 +26,9 @@
 
 ### Does it have strong support for functional programming?
 + It has some support for functional programming, but not active support
- 
+
 ### What's the deal with Python 2 vs Python 3?
++ Python 2 is a legacy language while Python 3 is "the present and future of the language". Python 3 features more for object-oriented programming. Many aspects have been adjusted in 3 to be easier for newcomers to learn and to be more consistent with the rest of the language.
+
 ### How do you open a REPL for Python?
 ### How does one execute a Python program?
