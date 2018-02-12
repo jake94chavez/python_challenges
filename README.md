@@ -19,6 +19,8 @@
 + Yes!
 
 ### What languages was Python influenced by?
++ Python was infulenced by ABC, ALGOL 68, C, C++, CLU, Dylan, Haskell, Icon, Java, Lisp, Modula-3, and Perl
+
 ### Is it a compiled or interpeted language?
 ### Does it have strong support for functional programming?
 ### What's the deal with Python 2 vs Python 3?
