@@ -25,6 +25,8 @@
 + Python is an interpreted language
 
 ### Does it have strong support for functional programming?
++ It has some support for functional programming, but not active support
+ 
 ### What's the deal with Python 2 vs Python 3?
 ### How do you open a REPL for Python?
 ### How does one execute a Python program?
