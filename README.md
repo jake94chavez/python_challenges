@@ -16,7 +16,7 @@
 + High-Level
 
 ### Does it have built in memory management and garbage collection?
-+
++ Yes!
 
 ### What languages was Python influenced by?
 ### Is it a compiled or interpeted language?
