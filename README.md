@@ -22,6 +22,8 @@
 + Python was infulenced by ABC, ALGOL 68, C, C++, CLU, Dylan, Haskell, Icon, Java, Lisp, Modula-3, and Perl
 
 ### Is it a compiled or interpeted language?
++ Python is an interpreted language
+
 ### Does it have strong support for functional programming?
 ### What's the deal with Python 2 vs Python 3?
 ### How do you open a REPL for Python?
