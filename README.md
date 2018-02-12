@@ -13,7 +13,11 @@
 + Strong - "Strong typing" generally refers to use of programming language types in order to both capture invariants of the code, and ensure its correctness, and definitely exclude certain classes of programming errors.
 
 ### Is it a high or low level language?
++ High-Level
+
 ### Does it have built in memory management and garbage collection?
++
+
 ### What languages was Python influenced by?
 ### Is it a compiled or interpeted language?
 ### Does it have strong support for functional programming?
