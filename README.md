@@ -34,3 +34,4 @@
 + With a python interpreter like IDLE
 
 ### How does one execute a Python program?
++ In the terminal one can run `python3 program.py` to execute a python program.
