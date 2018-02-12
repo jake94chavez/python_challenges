@@ -31,4 +31,6 @@
 + Python 2 is a legacy language while Python 3 is "the present and future of the language". Python 3 features more for object-oriented programming. Many aspects have been adjusted in 3 to be easier for newcomers to learn and to be more consistent with the rest of the language.
 
 ### How do you open a REPL for Python?
++ With a python interpreter like IDLE
+
 ### How does one execute a Python program?
